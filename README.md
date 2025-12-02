@@ -327,7 +327,7 @@ server {
 
 ```
 
-> 如果你有自己的域名，可以把 `server_name _;` 改成 `server_name i-rtfsc.publicvm.com _;`
+> 如果你有自己的域名，可以把 `server_name _;` 改成 `server_name i-rtfsc.com _;`
 
 
 ### 修改中转站地址
